@@ -1,0 +1,24 @@
+{
+  "name": "testdevops",
+  "version": "1.0.0",
+  "description": "test containers with docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdaf2008/testDevOps.git"
+  },
+  "author": "Juan Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdaf2008/testDevOps/issues"
+  },
+  "homepage": "https://github.com/jdaf2008/testDevOps#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
